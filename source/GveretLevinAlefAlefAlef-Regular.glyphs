@@ -1,5 +1,8 @@
 {
-.appVersion = "1141";
+.appVersion = "1192";
+DisplayStrings = (
+"0123456789"
+);
 copyright = "Copyright © 2016-2018 by AlefAlefAlef. All rights reserved.";
 date = "2018-10-05 03:58:24 +0000";
 designer = "Gili Levin & Shavit Yaacov";
@@ -5123,7 +5126,7 @@ unicode = FB1F;
 },
 {
 glyphname = zero;
-lastChange = "2018-07-28 17:47:46 +0000";
+lastChange = "2019-01-23 09:52:47 +0000";
 layers = (
 {
 hints = (
@@ -5157,8 +5160,14 @@ nodes = (
 "553 503 OFFCURVE",
 "493 609 OFFCURVE",
 "342 609 CURVE SMOOTH",
-"187 609 OFFCURVE",
-"44 434 OFFCURVE",
+"289 609 OFFCURVE",
+"237 588 OFFCURVE",
+"191 534 CURVE",
+"182 547 OFFCURVE",
+"160 543 OFFCURVE",
+"133 513 CURVE SMOOTH",
+"81 456 OFFCURVE",
+"37 363 OFFCURVE",
 "28 261 CURVE SMOOTH",
 "14 111 OFFCURVE",
 "67 -10 OFFCURVE",
@@ -5173,15 +5182,12 @@ nodes = (
 "138 227 CURVE SMOOTH",
 "143 287 OFFCURVE",
 "161 344 OFFCURVE",
-"178 350 CURVE SMOOTH",
-"193 355 OFFCURVE",
-"204 354 OFFCURVE",
+"174 350 CURVE",
+"193 345 OFFCURVE",
+"209 353 OFFCURVE",
 "218 375 CURVE SMOOTH",
-"230 392 OFFCURVE",
-"260 454 OFFCURVE",
-"268 461 CURVE",
-"280 473 OFFCURVE",
-"280 494 OFFCURVE",
+"255 461 OFFCURVE",
+"263 494 OFFCURVE",
 "334 494 CURVE SMOOTH",
 "418 494 OFFCURVE",
 "429 414 OFFCURVE",
@@ -5354,7 +5360,7 @@ unicode = 0032;
 },
 {
 glyphname = three;
-lastChange = "2018-07-28 17:47:46 +0000";
+lastChange = "2019-01-23 09:52:03 +0000";
 layers = (
 {
 hints = (
@@ -5389,14 +5395,11 @@ nodes = (
 "106 -34 OFFCURVE",
 "241 -32 OFFCURVE",
 "323 39 CURVE SMOOTH",
-"390 96 OFFCURVE",
-"407 234 OFFCURVE",
-"318 323 CURVE SMOOTH",
-"313 328 OFFCURVE",
-"302 348 OFFCURVE",
-"326 356 CURVE SMOOTH",
-"386 376 OFFCURVE",
-"447 430 OFFCURVE",
+"410 113 OFFCURVE",
+"391 284 OFFCURVE",
+"301 344 CURVE",
+"382 378 OFFCURVE",
+"447 420 OFFCURVE",
 "446 493 CURVE SMOOTH",
 "445 575 OFFCURVE",
 "376 613 OFFCURVE",
@@ -11432,6 +11435,10 @@ four = {
 backslash = 20;
 three = -10;
 };
+newsheqelsign = {
+five = -20;
+four = -40;
+};
 nine = {
 backslash = -40;
 bracketright = -30;
@@ -11457,9 +11464,9 @@ braceleft = 30;
 braceright = -40;
 five = -60;
 four = -30;
+newsheqelsign = 20;
 three = -60;
 two = -10;
-newsheqelsign = 20;
 };
 six = {
 braceright = -20;
@@ -11478,10 +11485,6 @@ bracketright = -30;
 eight = -10;
 five = -30;
 three = -20;
-};
-newsheqelsign = {
-five = -20;
-four = -40;
 };
 zero = {
 braceright = -20;
