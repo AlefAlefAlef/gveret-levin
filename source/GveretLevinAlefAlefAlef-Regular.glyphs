@@ -3,7 +3,9 @@
 DisplayStrings = (
 "0123456789",
 "/vavvav-hb/vavyod-hb/yodyod-hb/alef-hb/alefpatah-hb/alefqamats-hb/alefdagesh-hb/bet-hb/betdagesh-hb/betrafe-hb/gimel-hb/gimeldagesh-hb/dalet-hb/daletdagesh-hb/he-hb/hedagesh-hb/vav-hb/vavdagesh-hb/vavholam-hb/zayin-hb/zayindagesh-hb/het-hb/tet-hb/tetdagesh-hb/yod-hb/yoddagesh-hb/finalkaf-hb/finalkafdagesh-hb/kaf-hb/kafdagesh-hb/kafrafe-hb/lamed-hb/lameddagesh-hb/finalmem-hb/mem-hb/memdagesh-hb/finalnun-hb/nun-hb/nundagesh-hb/samekh-hb/samekhdagesh-hb/ayin-hb/finalpe-hb/finalpedagesh-hb/pe-hb/pedagesh-hb/perafe-hb/finaltsadi-hb/tsadi-hb/tsadidagesh-hb/qof-hb/qofdagesh-hb/resh-hb/reshdagesh-hb/shin-hb/shinshindot-hb/shinsindot-hb/shindageshshindot-hb/shindageshsindot-hb/shindagesh-hb/tav-hb/tavdagesh-hb/yodhiriq-hb/yodyodpatah-hb 0123456789.,:;!?·/bullet *#///backslash (){}[]-/endash/emdash _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright \"'/uni05F3/uni05F4/maquaf-hb  /Euro $/newsheqelsign/newsheqelsign.ss01/alephsymbol +/minus ×÷=><~^%@&©°|/shindot-hb/sheva-hb/hatafsegol-hb/hatafpatah-hb/hatafqamats-hb/hiriq-hb/tsere-hb/segol-hb/patah-hb/qamats-hb/holam-hb/holamhaser-hb/qubuts-hb/dagesh-hb/rafe-hb/sindot-hb/qamatsqatan-hb/spacer",
-"/alef-hb/bet-hb/gimel-hb/dalet-hb/he-hb/vav-hb/zayin-hb/het-hb/tet-hb/yod-hb/finalkaf-hb/kaf-hb/lamed-hb/finalmem-hb/mem-hb/finalnun-hb/nun-hb/samekh-hb/ayin-hb/finalpe-hb/pe-hb/finaltsadi-hb/tsadi-hb/qof-hb/resh-hb/shin-hb/tav-hb"
+"/alef-hb/bet-hb/gimel-hb/dalet-hb/he-hb/vav-hb/zayin-hb/het-hb/tet-hb/yod-hb/finalkaf-hb/kaf-hb/lamed-hb/finalmem-hb/mem-hb/finalnun-hb/nun-hb/samekh-hb/ayin-hb/finalpe-hb/pe-hb/finaltsadi-hb/tsadi-hb/qof-hb/resh-hb/shin-hb/tav-hb",
+"/vavvav-hb/vavyod-hb/yodyod-hb/alef-hb/alefpatah-hb/alefqamats-hb/alefdagesh-hb/bet-hb/betdagesh-hb/betrafe-hb/gimel-hb/gimeldagesh-hb/dalet-hb/daletdagesh-hb/he-hb/hedagesh-hb/vav-hb/vavdagesh-hb/vavholam-hb/zayin-hb/zayindagesh-hb/het-hb/tet-hb/tetdagesh-hb/yod-hb/yoddagesh-hb/finalkaf-hb/finalkafdagesh-hb/kaf-hb/kafdagesh-hb/kafrafe-hb/lamed-hb/lameddagesh-hb/finalmem-hb/mem-hb/memdagesh-hb/finalnun-hb/nun-hb/nundagesh-hb/samekh-hb/samekhdagesh-hb/ayin-hb/finalpe-hb/finalpedagesh-hb/pe-hb/pedagesh-hb/perafe-hb/finaltsadi-hb/tsadi-hb/tsadidagesh-hb/qof-hb/qofdagesh-hb/resh-hb/reshdagesh-hb/shin-hb/shinshindot-hb/shinsindot-hb/shindageshshindot-hb/shindageshsindot-hb/shindagesh-hb/tav-hb/tavdagesh-hb/yodhiriq-hb/yodyodpatah-hb 0123456789.,:;!?·/bullet *#///backslash (){}[]-/endash/emdash _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright \"'/uni05F3/uni05F4/maquaf-hb  /Euro $/newsheqelsign/newsheqelsign.ss01/alephsymbol +/minus ×÷=><~^%@&©°|/shindot-hb/sheva-hb/hatafsegol-hb/hatafpatah-hb/hatafqamats-hb/hiriq-hb/tsere-hb/segol-hb/patah-hb/qamats-hb/holam-hb/holamhaser-hb/qubuts-hb/dagesh-hb/rafe-hb/sindot-hb/qamatsqatan-hb/spacer",
+"/Euro $/newsheqelsign/newsheqelsign.ss01/alephsymbol +/minus ×÷=><~^%@&©°|"
 );
 copyright = "Copyright © 2016-2019 by AlefAlefAlef. All rights reserved.";
 date = "2019-01-24 08:16:50 +0000";
@@ -8921,7 +8923,7 @@ unicode = 2135;
 },
 {
 glyphname = plus;
-lastChange = "2018-07-28 17:47:46 +0000";
+lastChange = "2019-01-31 16:48:35 +0000";
 layers = (
 {
 hints = (
@@ -8948,32 +8950,32 @@ nodes = (
 "293 329 LINE",
 "311 386 OFFCURVE",
 "325 434 OFFCURVE",
-"329 445 CURVE",
+"329 445 CURVE SMOOTH",
 "337 473 OFFCURVE",
 "314 498 OFFCURVE",
 "298 501 CURVE SMOOTH",
 "275 505 OFFCURVE",
 "250 486 OFFCURVE",
-"245 470 CURVE",
+"245 470 CURVE SMOOTH",
 "240 456 OFFCURVE",
 "221 397 OFFCURVE",
 "199 331 CURVE",
 "132 332 OFFCURVE",
 "74 333 OFFCURVE",
-"65 331 CURVE",
+"65 331 CURVE SMOOTH",
 "43 327 OFFCURVE",
 "20 309 OFFCURVE",
 "17 289 CURVE SMOOTH",
 "12 258 OFFCURVE",
 "23 242 OFFCURVE",
-"52 238 CURVE",
+"52 238 CURVE SMOOTH",
 "63 236 OFFCURVE",
 "111 236 OFFCURVE",
 "168 236 CURVE",
 "148 175 OFFCURVE",
-"132 124 OFFCURVE",
-"130 115 CURVE",
-"128 94 OFFCURVE",
+"131 134 OFFCURVE",
+"130 115 CURVE SMOOTH",
+"128 84 OFFCURVE",
 "138 70 OFFCURVE",
 "158 67 CURVE SMOOTH",
 "187 62 OFFCURVE",
@@ -8986,9 +8988,9 @@ nodes = (
 "386 237 OFFCURVE",
 "399 237 CURVE SMOOTH",
 "427 237 OFFCURVE",
-"452 268 OFFCURVE",
-"454 285 CURVE",
-"458 309 OFFCURVE",
+"452 257 OFFCURVE",
+"454 285 CURVE SMOOTH",
+"456 311 OFFCURVE",
 "437 327 OFFCURVE",
 "421 327 CURVE SMOOTH"
 );
@@ -9054,7 +9056,7 @@ unicode = 2212;
 },
 {
 glyphname = multiply;
-lastChange = "2018-07-28 17:47:46 +0000";
+lastChange = "2019-01-31 16:48:49 +0000";
 layers = (
 {
 hints = (
@@ -9092,9 +9094,9 @@ nodes = (
 "109 342 OFFCURVE",
 "140 289 CURVE",
 "86 244 OFFCURVE",
-"38 204 OFFCURVE",
+"37 205 OFFCURVE",
 "28 195 CURVE SMOOTH",
-"6 175 OFFCURVE",
+"-4 162 OFFCURVE",
 "7 139 OFFCURVE",
 "17 127 CURVE SMOOTH",
 "31 111 OFFCURVE",
@@ -9108,9 +9110,9 @@ nodes = (
 "292 101 OFFCURVE",
 "307 111 CURVE SMOOTH",
 "329 125 OFFCURVE",
-"336 155 OFFCURVE",
-"327 167 CURVE",
-"320 178 OFFCURVE",
+"337 145 OFFCURVE",
+"327 167 CURVE SMOOTH",
+"322 179 OFFCURVE",
 "294 226 OFFCURVE",
 "264 279 CURVE",
 "320 325 OFFCURVE",
@@ -9422,7 +9424,7 @@ unicode = 003C;
 },
 {
 glyphname = asciitilde;
-lastChange = "2018-07-28 17:47:46 +0000";
+lastChange = "2019-01-31 16:49:04 +0000";
 layers = (
 {
 hints = (
@@ -9458,9 +9460,9 @@ nodes = (
 "441 232 OFFCURVE",
 "447 310 CURVE SMOOTH",
 "449 335 OFFCURVE",
-"446 367 OFFCURVE",
-"421 368 CURVE SMOOTH",
-"390 369 OFFCURVE",
+"433 367 OFFCURVE",
+"408 368 CURVE SMOOTH",
+"377 369 OFFCURVE",
 "366 348 OFFCURVE",
 "365 316 CURVE SMOOTH",
 "364 291 OFFCURVE",
@@ -9473,9 +9475,9 @@ nodes = (
 "204 382 OFFCURVE",
 "164 385 CURVE SMOOTH",
 "127 388 OFFCURVE",
-"94 370 OFFCURVE",
-"68 352 CURVE SMOOTH",
-"37 330 OFFCURVE",
+"96 377 OFFCURVE",
+"70 359 CURVE SMOOTH",
+"39 337 OFFCURVE",
 "25 297 OFFCURVE",
 "23 254 CURVE SMOOTH",
 "21 217 OFFCURVE",
@@ -9494,7 +9496,7 @@ unicode = 007E;
 },
 {
 glyphname = asciicircum;
-lastChange = "2018-07-28 17:47:46 +0000";
+lastChange = "2019-01-31 16:49:08 +0000";
 layers = (
 {
 hints = (
@@ -9520,9 +9522,9 @@ nodes = (
 "285 675 OFFCURVE",
 "265 677 CURVE SMOOTH",
 "230 681 OFFCURVE",
-"195 650 OFFCURVE",
+"205 650 OFFCURVE",
 "180 627 CURVE SMOOTH",
-"165 603 OFFCURVE",
+"159 608 OFFCURVE",
 "77 503 OFFCURVE",
 "52 465 CURVE SMOOTH",
 "38 445 OFFCURVE",
@@ -9552,7 +9554,7 @@ unicode = 005E;
 },
 {
 glyphname = percent;
-lastChange = "2018-07-28 17:47:46 +0000";
+lastChange = "2019-01-31 16:49:15 +0000";
 layers = (
 {
 hints = (
@@ -9681,17 +9683,8 @@ nodes = (
 "394 64 OFFCURVE",
 "380 85 OFFCURVE",
 "381 105 CURVE SMOOTH",
-"382 126 OFFCURVE",
-"392 147 OFFCURVE",
-"394 147 CURVE SMOOTH",
-"400 147 OFFCURVE",
-"402 151 OFFCURVE",
-"407 158 CURVE SMOOTH",
-"411 164 OFFCURVE",
-"410 171 OFFCURVE",
-"412 173 CURVE SMOOTH",
-"417 178 OFFCURVE",
-"431 198 OFFCURVE",
+"383 144 OFFCURVE",
+"422 198 OFFCURVE",
 "450 198 CURVE SMOOTH",
 "480 198 OFFCURVE",
 "485 169 OFFCURVE",
