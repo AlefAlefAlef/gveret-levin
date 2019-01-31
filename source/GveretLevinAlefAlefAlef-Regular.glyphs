@@ -5,7 +5,8 @@ DisplayStrings = (
 "/vavvav-hb/vavyod-hb/yodyod-hb/alef-hb/alefpatah-hb/alefqamats-hb/alefdagesh-hb/bet-hb/betdagesh-hb/betrafe-hb/gimel-hb/gimeldagesh-hb/dalet-hb/daletdagesh-hb/he-hb/hedagesh-hb/vav-hb/vavdagesh-hb/vavholam-hb/zayin-hb/zayindagesh-hb/het-hb/tet-hb/tetdagesh-hb/yod-hb/yoddagesh-hb/finalkaf-hb/finalkafdagesh-hb/kaf-hb/kafdagesh-hb/kafrafe-hb/lamed-hb/lameddagesh-hb/finalmem-hb/mem-hb/memdagesh-hb/finalnun-hb/nun-hb/nundagesh-hb/samekh-hb/samekhdagesh-hb/ayin-hb/finalpe-hb/finalpedagesh-hb/pe-hb/pedagesh-hb/perafe-hb/finaltsadi-hb/tsadi-hb/tsadidagesh-hb/qof-hb/qofdagesh-hb/resh-hb/reshdagesh-hb/shin-hb/shinshindot-hb/shinsindot-hb/shindageshshindot-hb/shindageshsindot-hb/shindagesh-hb/tav-hb/tavdagesh-hb/yodhiriq-hb/yodyodpatah-hb 0123456789.,:;!?·/bullet *#///backslash (){}[]-/endash/emdash _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright \"'/uni05F3/uni05F4/maquaf-hb  /Euro $/newsheqelsign/newsheqelsign.ss01/alephsymbol +/minus ×÷=><~^%@&©°|/shindot-hb/sheva-hb/hatafsegol-hb/hatafpatah-hb/hatafqamats-hb/hiriq-hb/tsere-hb/segol-hb/patah-hb/qamats-hb/holam-hb/holamhaser-hb/qubuts-hb/dagesh-hb/rafe-hb/sindot-hb/qamatsqatan-hb/spacer",
 "/alef-hb/bet-hb/gimel-hb/dalet-hb/he-hb/vav-hb/zayin-hb/het-hb/tet-hb/yod-hb/finalkaf-hb/kaf-hb/lamed-hb/finalmem-hb/mem-hb/finalnun-hb/nun-hb/samekh-hb/ayin-hb/finalpe-hb/pe-hb/finaltsadi-hb/tsadi-hb/qof-hb/resh-hb/shin-hb/tav-hb",
 "/vavvav-hb/vavyod-hb/yodyod-hb/alef-hb/alefpatah-hb/alefqamats-hb/alefdagesh-hb/bet-hb/betdagesh-hb/betrafe-hb/gimel-hb/gimeldagesh-hb/dalet-hb/daletdagesh-hb/he-hb/hedagesh-hb/vav-hb/vavdagesh-hb/vavholam-hb/zayin-hb/zayindagesh-hb/het-hb/tet-hb/tetdagesh-hb/yod-hb/yoddagesh-hb/finalkaf-hb/finalkafdagesh-hb/kaf-hb/kafdagesh-hb/kafrafe-hb/lamed-hb/lameddagesh-hb/finalmem-hb/mem-hb/memdagesh-hb/finalnun-hb/nun-hb/nundagesh-hb/samekh-hb/samekhdagesh-hb/ayin-hb/finalpe-hb/finalpedagesh-hb/pe-hb/pedagesh-hb/perafe-hb/finaltsadi-hb/tsadi-hb/tsadidagesh-hb/qof-hb/qofdagesh-hb/resh-hb/reshdagesh-hb/shin-hb/shinshindot-hb/shinsindot-hb/shindageshshindot-hb/shindageshsindot-hb/shindagesh-hb/tav-hb/tavdagesh-hb/yodhiriq-hb/yodyodpatah-hb 0123456789.,:;!?·/bullet *#///backslash (){}[]-/endash/emdash _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright \"'/uni05F3/uni05F4/maquaf-hb  /Euro $/newsheqelsign/newsheqelsign.ss01/alephsymbol +/minus ×÷=><~^%@&©°|/shindot-hb/sheva-hb/hatafsegol-hb/hatafpatah-hb/hatafqamats-hb/hiriq-hb/tsere-hb/segol-hb/patah-hb/qamats-hb/holam-hb/holamhaser-hb/qubuts-hb/dagesh-hb/rafe-hb/sindot-hb/qamatsqatan-hb/spacer",
-"/Euro $/newsheqelsign/newsheqelsign.ss01/alephsymbol +/minus ×÷=><~^%@&©°|"
+"/Euro $/newsheqelsign/newsheqelsign.ss01/alephsymbol +/minus ×÷=><~^%@&©°|",
+"/alef-hb/aleflamed-hb/vav-hb/he-hb/yod-hb/finalmem-hb"
 );
 copyright = "Copyright © 2016-2019 by AlefAlefAlef. All rights reserved.";
 date = "2019-01-24 08:16:50 +0000";
@@ -25,7 +26,7 @@ code = "feature calt;\012feature salt;\012feature ss01;\012";
 name = aalt;
 },
 {
-code = "sub vav-hb vav-hb by vavvav-hb;\012sub vav-hb yod-hb by vavyod-hb;\012sub yod-hb yod-hb by yodyod-hb;\012";
+code = "sub vav-hb vav-hb by vavvav-hb;\012sub vav-hb yod-hb by vavyod-hb;\012sub yod-hb yod-hb by yodyod-hb;\012sub alef-hb lamed-hb by aleflamed-hb;\012";
 name = dlig;
 },
 {
@@ -174,6 +175,63 @@ width = 414;
 leftMetricsKey = "yod-hb";
 rightMetricsKey = "yod-hb";
 unicode = 05F2;
+},
+{
+glyphname = "aleflamed-hb";
+lastChange = "2019-01-31 16:53:04 +0000";
+layers = (
+{
+components = (
+{
+name = "lamed-hb";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = "{-74.16, 696.27}";
+type = Stem;
+},
+{
+place = "{445, 116}";
+type = Stem;
+}
+);
+layerId = "79248770-D821-459F-BACB-A514C4DCB9B2";
+paths = (
+{
+closed = 1;
+nodes = (
+"454 -24 OFFCURVE",
+"490 3 OFFCURVE",
+"490 36 CURVE SMOOTH",
+"490 81 OFFCURVE",
+"363 65 OFFCURVE",
+"363 160 CURVE SMOOTH",
+"363 255 OFFCURVE",
+"508 315 OFFCURVE",
+"569 336 CURVE SMOOTH",
+"623 355 OFFCURVE",
+"638 398 OFFCURVE",
+"617 428 CURVE SMOOTH",
+"598 456 OFFCURVE",
+"561 453 OFFCURVE",
+"528 444 CURVE SMOOTH",
+"495 435 OFFCURVE",
+"260 339 OFFCURVE",
+"247 164 CURVE SMOOTH",
+"238 41 OFFCURVE",
+"359 -14 OFFCURVE",
+"406 -19 CURVE SMOOTH"
+);
+}
+);
+width = 604;
+}
+);
+leftMetricsKey = "lamed-hb";
+rightMetricsKey = "alef-hb";
+unicode = FB4F;
 },
 {
 color = 4;
