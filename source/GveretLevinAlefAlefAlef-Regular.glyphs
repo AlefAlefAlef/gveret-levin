@@ -19,7 +19,8 @@ DisplayStrings = (
 "/alef-hb/bet-hb/gimel-hb/dalet-hb/he-hb/vav-hb/zayin-hb/het-hb/tet-hb/yod-hb/finalkaf-hb/kaf-hb/lamed-hb/finalmem-hb/mem-hb/finalnun-hb/nun-hb/samekh-hb/ayin-hb/finalpe-hb/pe-hb/finaltsadi-hb/tsadi-hb/qof-hb/resh-hb/shin-hb/tav-hb 0123456789*/backslash ·/bullet :,!#.?\"';//_{}[]()/emdash/endash -/quotedblleft/quotedblright/quoteleft/quoteright/geresh-hb/gershayim-hb/maqaf-hb/space $/sheqel +/minus ×÷=><~%©°|^/spacer/quotedblbase/quotesinglbase/euro/sheqel.ss01/alephsymbol &@",
 "/alef_shin-hb",
 "/lamed-hb",
-"0123456789"
+"0123456789",
+"/bet-hb/rafe-hb/betrafe-hb/kaf-hb/kafrafe-hb/pe-hb/perafe-hb"
 );
 copyright = "Copyright © 2016-2020 by AlefAlefAlef. All rights reserved.";
 date = "2016-11-16 04:32:23 +0000";
@@ -606,7 +607,7 @@ unicode = FB31;
 {
 color = 4;
 glyphname = "betrafe-hb";
-lastChange = "2020-09-01 06:26:32 +0000";
+lastChange = "2020-09-01 12:51:10 +0000";
 layers = (
 {
 components = (
@@ -615,7 +616,7 @@ name = "bet-hb";
 },
 {
 name = "rafe-hb";
-transform = "{1, 0, 0, 1, 80, 47}";
+transform = "{1, 0, 0, 1, 80, -3}";
 }
 );
 layerId = "15880153-BF49-4651-A558-57743A88E547";
@@ -1476,7 +1477,7 @@ unicode = FB3A;
 },
 {
 glyphname = "kaf-hb";
-lastChange = "2016-11-16 03:42:46 +0000";
+lastChange = "2020-09-01 12:51:43 +0000";
 layers = (
 {
 anchors = (
@@ -1494,7 +1495,7 @@ position = "{220, 275}";
 },
 {
 name = top;
-position = "{377, 550}";
+position = "{307, 570}";
 },
 {
 name = topleft;
@@ -1562,7 +1563,7 @@ unicode = FB3B;
 {
 color = 4;
 glyphname = "kafrafe-hb";
-lastChange = "2020-09-01 06:26:32 +0000";
+lastChange = "2020-09-01 12:51:43 +0000";
 layers = (
 {
 components = (
@@ -1571,7 +1572,7 @@ name = "kaf-hb";
 },
 {
 name = "rafe-hb";
-transform = "{1, 0, 0, 1, 76, 117}";
+transform = "{1, 0, 0, 1, 6, 87}";
 }
 );
 layerId = "15880153-BF49-4651-A558-57743A88E547";
@@ -2270,7 +2271,7 @@ unicode = FB43;
 },
 {
 glyphname = "pe-hb";
-lastChange = "2016-11-16 04:06:27 +0000";
+lastChange = "2020-09-01 12:51:21 +0000";
 layers = (
 {
 anchors = (
@@ -2288,7 +2289,7 @@ position = "{380, 445}";
 },
 {
 name = top;
-position = "{396, 621}";
+position = "{376, 650}";
 },
 {
 name = topleft;
@@ -2377,18 +2378,16 @@ unicode = FB44;
 {
 color = 4;
 glyphname = "perafe-hb";
-lastChange = "2020-09-01 06:26:32 +0000";
+lastChange = "2020-09-01 12:51:30 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
 name = "pe-hb";
 },
 {
-alignment = -1;
 name = "rafe-hb";
-transform = "{1, 0, 0, 1, 49, 181}";
+transform = "{1, 0, 0, 1, 75, 167}";
 }
 );
 layerId = "15880153-BF49-4651-A558-57743A88E547";
@@ -9889,13 +9888,13 @@ unicode = 05BC;
 },
 {
 glyphname = "rafe-hb";
-lastChange = "2016-11-16 02:02:41 +0000";
+lastChange = "2020-09-01 12:51:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{301, 433}";
+position = "{301, 483}";
 }
 );
 layerId = "15880153-BF49-4651-A558-57743A88E547";
