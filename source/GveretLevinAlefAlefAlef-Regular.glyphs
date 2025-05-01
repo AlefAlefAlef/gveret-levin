@@ -1,5 +1,5 @@
 {
-.appVersion = "3343";
+.appVersion = "3409";
 DisplayStrings = (
 "/he-hb/samekh-hb/dalet-hb/vav-hb/alef-hb \012/he-hb/he-hb/he-hb n/he-hb/he-hb/he-hb \012/vav-hb/vav-hb/vav-hb n/vav-hb/vav-hb/vav-hb/vav-hb/space \012/finalmem-hb/het-hb/space/yod-hb/kaf-hb/space/finaltsadi-hb/tsadi-hb/vav-hb/pe-hb/tav-hb/he-hb/shin-hb/space/finalnun-hb/gimel-hb/zayin-hb/mem-hb/space/finalkaf-hb/resh-hb/dalet-hb/space/samekh-hb/nun-hb/space/qof-hb/bet-hb/alef-hb/space/finalpe-hb/lamed-hb/tet-hb/ayin-hb \012the/space quick/space brown/space fox/space jumps/space over/space the/space lazy/space dog\012Gveret/space levin\012GVERET/space LEVIN\012/finalnun-hb/yod-hb/vav-hb/lamed-hb/space/tav-hb/resh-hb/bet-hb/gimel-hb \012",
 "ooooooooooooo\012nnnnnnnnnnnnn\012nonononononono\012\012nanoae\012nnnonanoaonooo\012nnnonbnobonooo\012nnnoncnoconooo\012nnnondnodonooo\012nnnonenoeonooo\012nnnonfnofonooot\012nnnongnogonooo\012nnnonhnohonoool\012nnnoninoionooo\012nnnonjnojonooo\012nnnonknokonooo\012nnnonlnolonooo\012nnnonmnomonooo\012nnnonpnoponooo\012nnnonqnoqonooo\012nnnonrnoronooo\012nnnonsnosonooo\012nnnontnotonooo\012nnnonunouonooo\012nnnonvnovonooo\012nnnonwnowonooo\012nnnonxnoxonooo\012nnnonynoyonooo\012nnnonznozonooo",
@@ -7,7 +7,8 @@ DisplayStrings = (
 "OOOOOOOOOOOOO\012HHHHHHHHHHHHH\012HOHOHOHOHOHOHO\012HHHhHHHnHHHoHHH\012HHH/he-hb HHH/het-hb HHHlt\012\012HHHOHAHOAOHOOO\012HHHOHBHOBOHOOO\012HHHOHCHOCOHOOO\012HHHOHDHODOHOOO\012HHHOHEHOEOHOOO\012HHHOHFHOFOHOOO\012HHHOHGHOGOHOOO\012HHHOHNHONOHOOO\012HHHOHIHOIOHOOO\012HHHOHJHOJOHOOO\012HHHOHKHOKOHOOOV\012HHHOHLHOLOHOOO\012HHHOHMHOMOHOOO\012HHHOHPHOPOHOOO\012HHHOHQHOQOHOOO\012HHHOHRHOROHOOOp\012HHHOHSHOSOHOOO\012HHHOHTHOTOHOOO\012HHHOHUHOUOHOOOu\012HHHOHVHOVOHOOO\012HHHOHWHOWOHOOO\012HHHOHXHOXOHOOO\012HHHOHYHOYOHOOO\012HHHOHZHOZOHOOO",
 "©°\012Regitrated®Sign/space H®H\012Trade/trademark Mark/space H/trademark H\01299¢99£99¥99$99/sheqel 99\01250¢50£50¥50$50/sheqel 50\012`/circumflex/tilde",
 AAABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAVAWAXAYAZAABABBBCBDBEBFBGBHBIBJBKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZBACACBCCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCVCWCXCYCZCADADBDCDDDEDFDGDHDIDJDKDLDMDNDODPDQDRDSDTDUDVDWDXDYDZDAEAEBECEDEEEFEGEHEIEJEKELEMENEOEPEQERESETEUEVEWEXEYEZEAFAFBFCFDFEFFFGFHFIFJFKFLFMFNFOFPFQFRFSFTFUFVFWFXFYFZFAGAGBGCGDGEGFGGGHGIGJGKGLGMGNGOGPGQGRGSGTGUGVGWGXGYGZGAHAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZHAIAIBICIDIEIFIGIHIIIJIKILIMINIOIPIQIRISITIUIVIWIXIYIZIAJAJBJCJDJEJFJGJHJIJJJKJLJMJNJOJPJQJRJSJTJUJVJWJXJYJZJAKAKBKCKDKEKFKGKHKIKJKKKLKMKNKOKPKQKRKSKTKUKVKWKXKYKZKALALBLCLDLELFLGLHLILJLKLLLMLNLOLPLQLRLSLTLULVLWLXLYLZLAMAMBMCMDMEMFMGMHMIMJMKMLMMMNMOMPMQMRMSMTMUMVMWMXMYMZMANANBNCNDNENFNGNHNINJNKNLNMNNNONPNQNRNSNTNUNVNWNXNYNZNAOAOBOCODOEOFOGOHOIOJOKOLOMONOOOPOQOROSOTOUOVOWOXOYOZOAPAPBPCPDPEPFPGPHPIPJPKPLPMPNPOPPPQPRPSPTPUPVPWPXPYPZPAQAQBQCQDQEQFQGQHQIQJQKQLQMQNQOQPQQQRQSQTQUQVQWQXQYQZQARARBRCRDRERFRGRHRIRJRKRLRMRNRORPRQRRRSRTRURVRWRXRYRZRASASBSCSDSESFSGSHSISJSKSLSMSNSOSPSQSRSSSTSUSVSWSXSYSZSATATBTCTDTETFTGTHTITJTKTLTMTNTOTPTQTRTSTTTUTVTWTXTYTZTAUAUBUCUDUEUFUGUHUIUJUKULUMUNUOUPUQURUSUTUUUVUWUXUYUZUAVAVBVCVDVEVFVGVHVIVJVKVLVMVNVOVPVQVRVSVTVUVVVWVXVYVZVAWAWBWCWDWEWFWGWHWIWJWKWLWMWNWOWPWQWRWSWTWUWVWWWXWYWZWAXAXBXCXDXEXFXGXHXIXJXKXLXMXNXOXPXQXRXSXTXUXVXWXXXYXZXAYAYBYCYDYEYFYGYHYIYJYKYLYMYNYOYPYQYRYSYTYUYVYWYXYYYZYAZAZBZCZDZEZFZGZHZIZJZKZLZMZNZOZPZQZRZSZTZUZVZWZXZYZZZA,
-aaabacadaeafagahaiajakalamanaoapaqarasatauavawaxayazaababbbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwbxbybzbacacbcccdcecfcgchcicjckclcmcncocpcqcrcsctcucvcwcxcyczcadadbdcdddedfdgdhdidjdkdldmdndodpdqdrdsdtdudvdwdxdydzdaeaebecedeeefegeheiejekelemeneoepeqereseteuevewexeyezeafafbfcfdfefffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzfagagbgcgdgegfggghgigjgkglgmgngogpgqgrgsgtgugvgwgxgygzgahahbhchdhehfhghhhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhzhaiaibicidieifigihiiijikiliminioipiqirisitiuiviwixiyiziajajbjcjdjejfjgjhjijjjkjljmjnjojpjqjrjsjtjujvjwjxjyjzjakakbkckdkekfkgkhkikjkkklkmknkokpkqkrksktkukvkwkxkykzkalalblcldlelflglhliljlklllmlnlolplqlrlsltlulvlwlxlylzlamambmcmdmemfmgmhmimjmkmlmmmnmompmqmrmsmtmumvmwmxmymzmananbncndnenfngnhninjnknlnmnnnonpnqnrnsntnunvnwnxnynznaoaobocodoeofogohoiojokolomonooopoqorosotouovowoxoyozoapapbpcpdpepfpgphpipjpkplpmpnpopppqprpsptpupvpwpxpypzpaqaqbqcqdqeqfqgqhqiqjqkqlqmqnqoqpqqqrqsqtquqvqwqxqyqzqararbrcrdrerfrgrhrirjrkrlrmrnrorprqrrrsrtrurvrwrxryrzrasasbscsdsesfsgshsisjskslsmsnsospsqsrssstsusvswsxsyszsatatbtctdtetftgthtitjtktltmtntotptqtrtstttutvtwtxtytztauaubucudueufuguhuiujukulumunuoupuqurusutuuuvuwuxuyuzuavavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvvwvxvyvzvawawbwcwdwewfwgwhwiwjwkwlwmwnwowpwqwrwswtwuwvwwwxwywzwaxaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxxyxzxayaybycydyeyfygyhyiyjykylymynyoypyqyrysytyuyvywyxyyyzyazazbzczdzezfzgzhzizjzkzlzmznzozpzqzrzsztzuzvzwzxzyzzza
+aaabacadaeafagahaiajakalamanaoapaqarasatauavawaxayazaababbbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwbxbybzbacacbcccdcecfcgchcicjckclcmcncocpcqcrcsctcucvcwcxcyczcadadbdcdddedfdgdhdidjdkdldmdndodpdqdrdsdtdudvdwdxdydzdaeaebecedeeefegeheiejekelemeneoepeqereseteuevewexeyezeafafbfcfdfefffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzfagagbgcgdgegfggghgigjgkglgmgngogpgqgrgsgtgugvgwgxgygzgahahbhchdhehfhghhhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhzhaiaibicidieifigihiiijikiliminioipiqirisitiuiviwixiyiziajajbjcjdjejfjgjhjijjjkjljmjnjojpjqjrjsjtjujvjwjxjyjzjakakbkckdkekfkgkhkikjkkklkmknkokpkqkrksktkukvkwkxkykzkalalblcldlelflglhliljlklllmlnlolplqlrlsltlulvlwlxlylzlamambmcmdmemfmgmhmimjmkmlmmmnmompmqmrmsmtmumvmwmxmymzmananbncndnenfngnhninjnknlnmnnnonpnqnrnsntnunvnwnxnynznaoaobocodoeofogohoiojokolomonooopoqorosotouovowoxoyozoapapbpcpdpepfpgphpipjpkplpmpnpopppqprpsptpupvpwpxpypzpaqaqbqcqdqeqfqgqhqiqjqkqlqmqnqoqpqqqrqsqtquqvqwqxqyqzqararbrcrdrerfrgrhrirjrkrlrmrnrorprqrrrsrtrurvrwrxryrzrasasbscsdsesfsgshsisjskslsmsnsospsqsrssstsusvswsxsyszsatatbtctdtetftgthtitjtktltmtntotptqtrtstttutvtwtxtytztauaubucudueufuguhuiujukulumunuoupuqurusutuuuvuwuxuyuzuavavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvvwvxvyvzvawawbwcwdwewfwgwhwiwjwkwlwmwnwowpwqwrwswtwuwvwwwxwywzwaxaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxxyxzxayaybycydyeyfygyhyiyjykylymynyoypyqyrysytyuyvywyxyyyzyazazbzczdzezfzgzhzizjzkzlzmznzozpzqzrzsztzuzvzwzxzyzzza,
+"/het-hb/alef-hb/lamed-hb/finalpe-hb/⸗/bet-hb/yod-hb/tav-hb \"/gershayim-hb/het-hb/vav-hb/U201B/vav-hb/het-hb/vav-hb/U201F/vav-hb/mem-hb"
 );
 copyright = "Copyright © 2016-2025 by AlefAlefAlef. All rights reserved.";
 date = "2016-11-16 04:32:23 +0000";
@@ -9401,6 +9402,67 @@ rightKerningGroup = bottom;
 unicode = 005F;
 },
 {
+glyphname = "⸗";
+lastChange = "2025-05-01 05:27:27 +0000";
+layers = (
+{
+layerId = "15880153-BF49-4651-A558-57743A88E547";
+paths = (
+{
+closed = 1;
+nodes = (
+"79 337 OFFCURVE",
+"94 318 OFFCURVE",
+"149 316 CURVE SMOOTH",
+"215 316 OFFCURVE",
+"472 345 OFFCURVE",
+"605 398 CURVE SMOOTH",
+"662 420 OFFCURVE",
+"696 447 OFFCURVE",
+"685 477 CURVE SMOOTH",
+"668 522 OFFCURVE",
+"620 522 OFFCURVE",
+"535 502 CURVE SMOOTH",
+"338 455 OFFCURVE",
+"184 423 OFFCURVE",
+"154 415 CURVE SMOOTH",
+"106 402 OFFCURVE",
+"70 387 OFFCURVE",
+"75 364 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"607 261 OFFCURVE",
+"592 280 OFFCURVE",
+"537 282 CURVE SMOOTH",
+"471 282 OFFCURVE",
+"214 253 OFFCURVE",
+"81 200 CURVE SMOOTH",
+"24 178 OFFCURVE",
+"-10 151 OFFCURVE",
+"1 121 CURVE SMOOTH",
+"18 76 OFFCURVE",
+"66 76 OFFCURVE",
+"151 96 CURVE SMOOTH",
+"348 143 OFFCURVE",
+"502 175 OFFCURVE",
+"532 183 CURVE SMOOTH",
+"580 196 OFFCURVE",
+"616 211 OFFCURVE",
+"611 234 CURVE SMOOTH"
+);
+}
+);
+width = 661;
+}
+);
+leftKerningGroup = equal;
+rightKerningGroup = equal;
+unicode = 2E17;
+},
+{
 glyphname = parenleft;
 lastChange = "2024-12-05 03:56:10 +0000";
 layers = (
@@ -9797,6 +9859,105 @@ leftMetricsKey = quotesingle;
 rightKerningGroup = top;
 rightMetricsKey = quotesingle;
 unicode = 2019;
+},
+{
+glyphname = U201B;
+lastChange = "2025-05-01 05:32:00 +0000";
+layers = (
+{
+layerId = "15880153-BF49-4651-A558-57743A88E547";
+paths = (
+{
+closed = 1;
+nodes = (
+"190 482 OFFCURVE",
+"204 501 OFFCURVE",
+"214 531 CURVE SMOOTH",
+"224 563 OFFCURVE",
+"225 595 OFFCURVE",
+"240 625 CURVE SMOOTH",
+"259 664 OFFCURVE",
+"309 680 OFFCURVE",
+"329 723 CURVE SMOOTH",
+"343 754 OFFCURVE",
+"330 791 OFFCURVE",
+"299 803 CURVE SMOOTH",
+"263 817 OFFCURVE",
+"225 793 OFFCURVE",
+"208 752 CURVE SMOOTH",
+"164 646 OFFCURVE",
+"134 505 OFFCURVE",
+"163 493 CURVE SMOOTH"
+);
+}
+);
+width = 240;
+}
+);
+leftKerningGroup = topHB;
+rightKerningGroup = topHB;
+},
+{
+glyphname = U201F;
+lastChange = "2025-05-01 05:32:02 +0000";
+layers = (
+{
+layerId = "15880153-BF49-4651-A558-57743A88E547";
+paths = (
+{
+closed = 1;
+nodes = (
+"190 482 OFFCURVE",
+"204 501 OFFCURVE",
+"214 531 CURVE SMOOTH",
+"224 563 OFFCURVE",
+"225 595 OFFCURVE",
+"240 625 CURVE SMOOTH",
+"259 664 OFFCURVE",
+"309 680 OFFCURVE",
+"329 723 CURVE SMOOTH",
+"343 754 OFFCURVE",
+"330 791 OFFCURVE",
+"299 803 CURVE SMOOTH",
+"263 817 OFFCURVE",
+"225 793 OFFCURVE",
+"208 752 CURVE SMOOTH",
+"164 646 OFFCURVE",
+"134 505 OFFCURVE",
+"163 493 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"359 463 OFFCURVE",
+"375 485 OFFCURVE",
+"387 519 CURVE SMOOTH",
+"400 556 OFFCURVE",
+"402 596 OFFCURVE",
+"416 624 CURVE SMOOTH",
+"434 660 OFFCURVE",
+"482 663 OFFCURVE",
+"497 700 CURVE SMOOTH",
+"511 734 OFFCURVE",
+"502 772 OFFCURVE",
+"469 784 CURVE SMOOTH",
+"433 798 OFFCURVE",
+"394 775 OFFCURVE",
+"378 733 CURVE SMOOTH",
+"336 617 OFFCURVE",
+"304 486 OFFCURVE",
+"333 474 CURVE SMOOTH"
+);
+}
+);
+width = 415;
+}
+);
+leftKerningGroup = topHB;
+leftMetricsKey = U201B;
+rightKerningGroup = topHB;
+rightMetricsKey = U201B;
 },
 {
 glyphname = quotedbl;
