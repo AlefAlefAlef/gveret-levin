@@ -1,5 +1,5 @@
 {
-.appVersion = "3409";
+.appVersion = "3413";
 .formatVersion = 3;
 DisplayStrings = (
 "הסדוא
@@ -90,7 +90,8 @@ aaabacadaeafagahaiajakalamanaoapaqarasatauavawaxayazaababbbcbdbebfbgbhbibjbkblbm
 "@©",
 "חו׆וע",
 "כדשגלוכ ילשחhgsdafghkf asdfDFHBIBDDVלחיגכע",
-"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzאאַאָאּבבּבֿגגּדדּההּווּוֹזזּחטטּייּךךּככּכֿל/lamed-hb.ss01 לּםממּןנ/nun-hb.ss01/nun-hb.ss02 נּססּעף/finalpe-hb.ss01 ףּפפּפֿץ/finaltsadi-hb.ss01 צצּקקּררּששׁשׂשּׁשּׂשּתתּװױײײַ/alef_shin-hb ﭏ0123456789 /nbspace ׆׳״־.,:;…!?·•*#///backslash -–—⸗_(){}[]‚„“”‘’‛‟\"'@&©®™°|¢$€₪/sheqel.ss01 £¥ℵ+−×÷=><~^%ְֱֲֳִֵֶַָׇֹֺֻּֿׁׂ`ˆ˜/spacer"
+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzאאַאָאּבבּבֿגגּדדּההּווּוֹזזּחטטּייּךךּככּכֿל/lamed-hb.ss01 לּםממּןנ/nun-hb.ss01/nun-hb.ss02 נּססּעף/finalpe-hb.ss01 ףּפפּפֿץ/finaltsadi-hb.ss01 צצּקקּררּששׁשׂשּׁשּׂשּתתּװױײײַ/alef_shin-hb ﭏ0123456789 /nbspace ׆׳״־.,:;…!?·•*#///backslash -–—⸗_(){}[]‚„“”‘’‛‟\"'@&©®™°|¢$€₪/sheqel.ss01 £¥ℵ+−×÷=><~^%ְֱֲֳִֵֶַָׇֹֺֻּֿׁׂ`ˆ˜/spacer",
+"uיִו"
 );
 axes = (
 {
@@ -7945,6 +7946,27 @@ width = 414;
 metricLeft = "yod-hb";
 metricRight = "yod-hb";
 unicode = 1522;
+},
+{
+glyphname = "yodhiriq-hb";
+lastChange = "2025-07-23 13:48:08 +0000";
+layers = (
+{
+layerId = "15880153-BF49-4651-A558-57743A88E547";
+shapes = (
+{
+ref = "yod-hb";
+},
+{
+alignment = -1;
+pos = (-226,175);
+ref = "hiriq-hb";
+}
+);
+width = 207;
+}
+);
+unicode = 64285;
 },
 {
 color = 4;
