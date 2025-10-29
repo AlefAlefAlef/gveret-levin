@@ -177,23 +177,35 @@ fontMaster = (
 customParameters = (
 {
 name = winAscent;
-value = 1050;
+value = 1221;
 },
 {
 name = winDescent;
-value = -400;
-},
-{
-name = typoLineGap;
-value = 450;
+value = 418;
 },
 {
 name = typoAscender;
-value = 800;
+value = 990;
 },
 {
 name = typoDescender;
-value = -200;
+value = -310;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 990;
+},
+{
+name = hheaDescender;
+value = -310;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = underlinePosition;
