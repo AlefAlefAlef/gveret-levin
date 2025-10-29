@@ -87,7 +87,7 @@ sub sheqel by sheqel.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = ss01;
 }
 );
 notes = "Name: ";
@@ -110,6 +110,12 @@ tag = calt;
 automatic = 1;
 code = "sub nun-hb by nun-hb.ss02;
 ";
+labels = (
+{
+language = dflt;
+value = ss02;
+}
+);
 tag = ss02;
 }
 );
