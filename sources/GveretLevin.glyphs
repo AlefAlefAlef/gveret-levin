@@ -8815,6 +8815,28 @@ metricWidth = space;
 unicode = 160;
 },
 {
+glyphname = lineseparator;
+lastChange = "2025-10-29 14:46:51 +0000";
+layers = (
+{
+layerId = "15880153-BF49-4651-A558-57743A88E547";
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+lastChange = "2025-10-29 14:46:51 +0000";
+layers = (
+{
+layerId = "15880153-BF49-4651-A558-57743A88E547";
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
 color = 6;
 glyphname = "maqaf-hb";
 kernLeft = topHB;
