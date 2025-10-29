@@ -1,6 +1,39 @@
 {
 .appVersion = "3428";
 .formatVersion = 3;
+DisplayStrings = (
+"Zero Handles:
+בגדזל/lamed-hb.ss01 ף/finalpe-hb.ss01 ץ/finaltsadi-hb.ss01 2467ℵ
+
+Outward Handles:
+gpyדחמף/finalpe-hb.ss01 פ/finaltsadi-hb.ss01 23@&®
+
+Angled Handles:
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqstvwxyzאבגדהזטךכל/lamed-hb.ss01 םמנ/nun-hb.ss02 סעף/finalpe-hb.ss01 פץ/finaltsadi-hb.ss01 צקרת/alef_shin-hb ﭏ0235678־׆-–—⸗_{[\"?*#¢€£¥ℵ+−÷=~^%@&©®™ֲֳַָֿﬞ
+
+Shallow Curve:
+7
+
+Small Curve BBox:
+BF/nun-hb.ss02 ׆ֳ
+
+Almost Orthogonal Lines:
+FMWYqםת¥ℵ
+
+Short Line Segments:
+ם
+
+Bad Path Orientation:
+`˜
+
+Off-curve as start point:
+׆`
+
+Decimal Coordinates:
+ְֱֲֳִֵֶֹֻּ
+
+"
+);
 customParameters = (
 {
 name = fsType;
@@ -9980,24 +10013,28 @@ unicode = 59;
 {
 color = 10;
 glyphname = ellipsis;
-lastChange = "2025-10-29 14:39:49 +0000";
+lastChange = "2025-10-29 14:41:19 +0000";
 layers = (
 {
 layerId = "15880153-BF49-4651-A558-57743A88E547";
 shapes = (
 {
+pos = (220,0);
 ref = period;
 },
 {
+pos = (440,0);
 ref = period;
 },
 {
 ref = period;
 }
 );
-width = 180;
+width = 620;
 }
 );
+metricLeft = period;
+metricRight = period;
 unicode = 8230;
 },
 {
