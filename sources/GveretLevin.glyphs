@@ -8142,9 +8142,15 @@ color = 3;
 glyphname = "aleflamed-hb";
 kernLeft = "lamed-hb";
 kernRight = "alef-hb";
-lastChange = "2025-10-29 14:39:49 +0000";
+lastChange = "2025-10-29 14:41:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (298.5,0);
+}
+);
 layerId = "15880153-BF49-4651-A558-57743A88E547";
 shapes = (
 {
