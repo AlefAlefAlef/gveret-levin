@@ -1,4 +1,4 @@
-Copyright 2024 The Gveret Levin Authors (https://github.com/AlefAlefAlef/gveret-levin)
+Copyright 2024 The Gveret Levin Project Authors (https://github.com/AlefAlefAlef/gveret-levin)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
