@@ -253,9 +253,6 @@ over = -15;
 pos = -200;
 },
 {
-pos = 16;
-},
-{
 over = 15;
 pos = 550;
 }
@@ -17314,9 +17311,6 @@ type = baseline;
 },
 {
 type = descender;
-},
-{
-type = "italic angle";
 },
 {
 name = "zone 1";
