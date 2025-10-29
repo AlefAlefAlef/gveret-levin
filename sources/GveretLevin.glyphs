@@ -16484,8 +16484,9 @@ unicode = 732;
 },
 {
 color = 6;
+export = 0;
 glyphname = spacer;
-lastChange = "2025-10-29 14:39:49 +0000";
+lastChange = "2025-10-29 14:45:33 +0000";
 layers = (
 {
 layerId = "15880153-BF49-4651-A558-57743A88E547";
